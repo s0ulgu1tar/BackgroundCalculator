@@ -1,0 +1,11 @@
+{
+    "display_name": "BackgroundCalculator",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "main.js",
+    "author": "JamesNylon",
+    "version": "1.0.0",
+    "homePage": "https://github.com/s0ulgu1tar/BackgroundCalculator",
+    "auto_update": true
+}
